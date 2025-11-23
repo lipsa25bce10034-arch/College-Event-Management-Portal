@@ -39,8 +39,9 @@ The *College Event Management System* is a web-based application designed to str
    ```bash
    git clone <repository_url>
 
-   #instructions for testing
+ ##instructions for testing
    1. Event Creation & Publishing
+   
 
 Allows organizers and admins to create events with details such as title, description, date, venue, category, and rules, and publish them on the platform.
 
@@ -79,7 +80,8 @@ Accessible across devices (desktop, tablet, mobile) for smooth usage by all stak
 10. Secure Login & Data Protection
 
 Provides secure authentication, data privacy, and role-based safeguards to maintain system integrity.
-
+screenshot 1. shows the main menu of the College Event Management Portal after running the Python program. It displays the available options such as viewing events, registering, and checking the participant list.
+screenshot 2.shows the list of upcoming college events that the program displays when the user selects the option to view events and given the details of the participant
 <img width="477" height="197" alt="image" src="https://github.com/user-attachments/assets/dca72a31-9e10-423a-a923-8c4936118c57" />
 <img width="732" height="441" alt="image" src="https://github.com/user-attachments/assets/8e06f189-e36f-446e-b2a1-c9651d11e592" />
 
