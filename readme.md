@@ -40,4 +40,5 @@ The *College Event Management System* is a web-based application designed to str
    git clone <repository_url>
 
 <img width="477" height="197" alt="image" src="https://github.com/user-attachments/assets/dca72a31-9e10-423a-a923-8c4936118c57" />
+<img width="732" height="441" alt="image" src="https://github.com/user-attachments/assets/8e06f189-e36f-446e-b2a1-c9651d11e592" />
 
