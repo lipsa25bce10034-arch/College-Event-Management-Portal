@@ -37,22 +37,19 @@ Feedback and rating system
 Multi-college event support
 
 #Target users
+
 The College Event Management System is designed to serve the following primary user groups:
-
 1. Students
-
 Register for events online
 View event details, updates, schedules, and results
 Participate in multiple events seamlessly
 Receive notifications and announcements in real time
 
-
-2. Event Organizers / Coordinators
+2 Event Organizers / Coordinators
 Create and manage events
 Track participant registrations and attendance
 Share event updates, rules, and schedules
 Oversee event logistics and communication
-
 
 3. Administrators / College Management
 Oversee all events conducted across the institution
